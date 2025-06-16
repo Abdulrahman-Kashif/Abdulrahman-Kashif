@@ -2,9 +2,8 @@
 <h3 align="center">🚀 Final Year CS Student | Aspiring AI/ML Engineer | Computer Vision Fanatic</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer%20in%20Progress-%23FF0080%20to%20%2300FFFF?style=for-the-badge&logo=github" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=1400&multiline=true&lines=Computer+Vision+%7C+Machine+Learning+%7C+Deep+Learning+%7C+AI+Engineer+in+progress&color=F70000&color=0099FF&color=00CC66&color=FF9900" alt="Typing SVG" />
 </p>
-
 
 ## 🌐 Connect with Me
 

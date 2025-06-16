@@ -47,13 +47,23 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Kashif&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Kashif&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Kashif&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
+<!-- GitHub Stats -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Kashif&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Abdulrahman-Kashif&theme=ambient_gradient&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Kashif&theme=ambient_gradient&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
----
 
 ## 🏆 GitHub Trophies
 
